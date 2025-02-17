@@ -10,4 +10,4 @@ Programming Languages:  [![My Skills](https://skillicons.dev/icons?i=python,js,t
 
 Frontend Development:    [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,angular&theme=light)](https://skillicons.dev)
 
-Backend Development:    [![My Skills](https://skillicons.dev/icons?i=django,restapis&theme=light)](https://skillicons.dev)
+Backend Development:    [![My Skills](https://skillicons.dev/icons?i=django,restapi&theme=light)](https://skillicons.dev)

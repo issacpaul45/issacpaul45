@@ -8,4 +8,4 @@ Full Stack Developer
 
 Programming Languages:  [![My Skills](https://skillicons.dev/icons?i=python,js,ts&theme=light)](https://skillicons.dev)
 
-Frontend Development:    [![My Skills](https://skillicons.dev/icons?i=html5,css3,bootstrap5,angular&theme=light)](https://skillicons.dev)
+Frontend Development:    [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,angular&theme=light)](https://skillicons.dev)

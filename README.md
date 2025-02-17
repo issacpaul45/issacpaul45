@@ -6,5 +6,5 @@ Full Stack Developer
 - 💬 Ask me about Python, Angular
 - 📫 How to reach me: issacpaul45@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap&theme=light)](https://skillicons.dev)
+Programming Languages: [![My Skills](https://skillicons.dev/icons?i=python,js,ts&theme=light)](https://skillicons.dev)
 

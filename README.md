@@ -13,3 +13,7 @@ Frontend Development:    [![My Skills](https://skillicons.dev/icons?i=html,css,b
 Backend Development:     [![My Skills](https://skillicons.dev/icons?i=django&theme=light)](https://skillicons.dev)
 
 Databases:               [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issacpaul45&layout=compact)

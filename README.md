@@ -12,7 +12,7 @@ Frontend Development:    [![My Skills](https://skillicons.dev/icons?i=html,css,b
 
 Backend Development:     [![My Skills](https://skillicons.dev/icons?i=django&theme=light)](https://skillicons.dev)    
 
-Databse      [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
+Database:      [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
 
 
 

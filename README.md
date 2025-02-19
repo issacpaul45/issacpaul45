@@ -6,7 +6,7 @@ Full Stack Developer
 - 💬 Ask me about Python, Angular
 - 📫 How to reach me:     [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/issac-paul-a85869190/) issacpaul45@gmail.com
 
-Programming Languages:   [![My Skills](https://skillicons.dev/icons?i=python,js,ts)](https://www.python.org/,https://www.javascript.com/)         
+Programming Languages:   [![My Skills](https://skillicons.dev/icons?i=python,js,ts)](https://www.python.org/),(https://www.javascript.com/)         
 
 Frontend Development:    [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,angular)](https://skillicons.dev)
 

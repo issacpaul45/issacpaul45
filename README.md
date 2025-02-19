@@ -5,8 +5,7 @@ Full Stack Developer
 
 - 💬 Ask me about Python, Angular
 - 📫 How to reach me:  
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/issac-paul-a85869190/)  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:issacpaul45@gmail.com)
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/issac-paul-a85869190/)  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:issacpaul45@gmail.com)
 
 Programming Languages:
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)  [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)           
@@ -18,9 +17,7 @@ Backend Development:
 [![My Skills](https://skillicons.dev/icons?i=django&theme=light)](https://www.djangoproject.com/)    
 
 Database:
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)  
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)  
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)  
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)  [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)  [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)  
 
 
 

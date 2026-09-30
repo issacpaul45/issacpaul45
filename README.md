@@ -23,12 +23,7 @@
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)  [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.dev/)
 
 ### 🛠️ Backend Development:
-[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)  [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 
 ### 🗄️ Databases:
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)  [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)  [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issacpaul45&layout=compact)
-

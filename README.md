@@ -3,10 +3,14 @@
 
 ### 💬 Ask me about:
 - Python & Django
-- Backend Development
-- REST APIs
-- PostgreSQL & Databases
+- Backend Engineering
+- REST APIs & API Development
+- PostgreSQL & Database Engineering
 - Celery & RabbitMQ
+- API Integration & External Services
+- Algorithm & Optimization
+- Geospatial Computing
+- Docker & Containerization
 - Angular & Frontend Integration
 
 ### 📫 Connect with me:
@@ -27,3 +31,30 @@
 
 ### 🗄️ Databases:
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)  [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)  [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+
+### ⚙️ Backend Engineering:
+- REST API Development
+- JWT Authentication & RBAC
+- Celery & RabbitMQ
+- Asynchronous Processing
+- API & External Service Integration
+- Algorithm & Optimization
+- Geospatial Computing
+- Concurrency
+- Caching
+- Testing
+- Logging & Observability
+- Database Performance Optimization
+
+### ☁️ Cloud & DevOps:
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)  [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)  [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+
+- AWS S3
+- AWS SQS
+- AWS IAM
+- Docker & Docker Compose
+- Production Debugging
+- Deployment Support
+
+### 🧪 Tools:
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)  [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)

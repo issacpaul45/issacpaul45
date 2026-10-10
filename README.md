@@ -14,7 +14,7 @@
 - Angular & Frontend Integration
 
 ### 📫 Connect with me:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/issac-paul-a85869190/)  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:issacpaul45@gmail.com) [![Portfolio](https://skillicons.dev/icons?i=github)](https://issacpaul45.github.io/Portfolio/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/issac-paul-a85869190/)  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:issacpaul45@gmail.com) [![Portfolio](https://skillicons.dev/icons?i=web)](https://issacpaul45.github.io/Portfolio/)
 
 ---
 

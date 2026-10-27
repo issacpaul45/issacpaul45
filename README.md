@@ -24,7 +24,7 @@ I build backend services and APIs, work on database performance and asynchronous
 
 ## 🚀 Featured Projects
 
-### 🤖 Support Insights Agent
+### [🤖 Support Insights Agent](https://github.com/issacpaul45/support-insights-agent)
 **Python · Django REST Framework · PostgreSQL · OpenAI Responses API · MCP**
 
 An AI-powered support insights API that uses controlled, database-backed tools to search support tickets and analyze unresolved issues.
@@ -42,7 +42,7 @@ An AI-powered support insights API that uses controlled, database-backed tools t
 
 ---
 
-### 🗺️ Route & Fuel Optimization API
+### 🗺️ [Route & Fuel Optimization API](https://github.com/issacpaul45/route-fuel-optimizer)
 **Python · Django REST Framework · PostgreSQL · Docker · Geoapify · Shapely**
 
 An API that identifies cost-effective fuel stops along US driving routes, considering fuel prices, vehicle range, and fuel efficiency.
